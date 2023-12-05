@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoniyaTanpure
-- 👀 I’m a front-end Angular Developer with 5 years of experience
+- 👀 I’m a front-end Angular Developer with 6 years of experience
 - 🌱 I’m currently working on Angular with understanding of TypeScript, Javascript, familiar with RESTful APIs and HTTP Services, State Management (NgRx), RxJS, Unit Testing (Jasmine, Karma)
 - IDE tool: VS Code.
 - CI/CD Tools: Jenkins, Git, BitBucket, JIRA, Tortoise SVN
